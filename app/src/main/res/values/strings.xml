@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">VoiceTools</string>
+  <string name="chat_audio_conference">语音会议</string>
+  <string name="send">发送</string>
+
+
+  <string name="audio_chat_tip_1">按住说话</string>
+  <string name="audio_chat_tip_2">松开发送</string>
+  <string name="audio_chat_tip_3">上滑取消发送</string>
+  <string name="audio_chat_tip_4">松开取消发送</string>
+  <string name="audio_chat_tip_5">重新录制</string>
+  <string name="audio_chat_tip_6">松开结束</string>
+</resources>
